@@ -1,0 +1,57 @@
+<html><head><style>
+    table, th, td {border: 2px solid black;border-collapse: collapse;}
+    th,td {padding:5px;}
+    </style>
+    </head>
+    <body>
+    <table style="width: 100%;">
+    <tr><th colspan="6">Расписание</th></tr>
+    <tr>
+        <th>Понедельник</th>
+        <th rowspan="7">6 класс</th>
+        <th>Вторник</th>
+        <th>Среда</th>
+        <th>Четверг</th>
+        <th>Пятница</th>
+    </tr> 
+    <tr>
+        <td>География</td>
+        <td>Английский язык</td>
+        <td>Русский язык</td>
+        <td>Английский язык</td>
+        <td>Английский язык</td>
+    </tr>
+    <tr>
+        <td>Русский язык</td>
+        <td>Физкультура</td>
+        <td>Физкультура</td>
+        <td>Математика</td>
+        <td>Математика</td>
+    </tr>
+    <tr>
+        <td>Математика</td>        
+        <td>Русский язык</td>
+        <td>Математика</td>
+        <td>Физкультура</td>
+        <td>Русский язык</td>
+    </tr>
+    <tr>
+        <td>История</td>            
+        <td>Математика</td>
+        <td>Литература</td>
+        <td>Русский язык</td>
+        <td>Русский язык</td>
+    <tr>
+        <td>Литература</td>            
+        <td>ИЗО</td>
+        <td>История</td>
+        <td>Музыка</td>
+        <td>Обществознание</td>
+    <tr>
+        <td>Технология</td>            
+        <td>Литература</td>
+        <td>Технология</td>
+        <td>Биология</td>
+        <td>ОДРНК</td>
+    </tr>
+</table></body></html>
